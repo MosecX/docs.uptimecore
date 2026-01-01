@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📖 UptimeCore Docs
 
-## Getting Started
+Bienvenido a la documentación oficial de **UptimeCore**.  
+Este repositorio contiene el código fuente de la página web de documentación, disponible en:
 
-First, run the development server:
+👉 [docs-uptimecore.vercel.app](https://docs-uptimecore.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Contenido
+La documentación está organizada en secciones claras y accesibles:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ⚙️ **Instalación** → cómo clonar y preparar el proyecto.  
+- 🔐 **Configuración** → variables de entorno, VPS con Nginx y SSL.  
+- 📦 **Uso** → ejecución en desarrollo, producción, VPS y deploy en Vercel.  
+- 🤝 **Contribución** → guía para colaborar con la comunidad.  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌍 Objetivo
+El propósito de esta página es ofrecer una experiencia premium y confiable para todos los usuarios de UptimeCore, con guías claras y un diseño cuidado.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contribuye
+Si quieres mejorar la documentación:
+1. Haz un fork del repositorio.
+2. Crea una rama para tu mejora.
+3. Envía un Pull Request con tus cambios.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📜 Licencia
+Este proyecto está bajo la licencia **MIT**.  
+Consulta el archivo `LICENSE` para más detalles.
